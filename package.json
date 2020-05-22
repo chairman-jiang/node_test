@@ -1,0 +1,20 @@
+{
+  "name": "node_test",
+  "version": "1.0.0",
+  "description": "pm2test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chairman-jiang/node_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chairman-jiang/node_test/issues"
+  },
+  "homepage": "https://github.com/chairman-jiang/node_test#readme"
+}
